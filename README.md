@@ -1,4 +1,4 @@
-
+<h2>Host</h2>
 
 [Live Site](https://altschool-exam-project-ruby.vercel.app/)
 
