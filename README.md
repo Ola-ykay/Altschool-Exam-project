@@ -1,3 +1,17 @@
+<h2>Host</h2>
+
+[Live Site](https://altschool-exam-project-ruby.vercel.app/)
+
+<h2><b>About</b></h2>
+
+Setup a custom counter hook with increment, decrement, reset, setValue functions with a valid UI and Implement a combination of states with a useReducer that implements a counter with the four evident features in the custom hook -  increment, decrement, reset, setValue. Implement a page for the custom hook, useReducer, 404, and a page to test error boundary and good SEO.
+
+<h3>Home page screenshot</h3>
+
+![Screenshot (378)](https://user-images.githubusercontent.com/106248524/200163387-a11ed6c9-56a4-4229-a98f-9dec5fc8fcb8.png)
+
+
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
